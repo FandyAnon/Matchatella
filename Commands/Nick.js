@@ -36,4 +36,4 @@ module.exports = {
             return message.channel.send("Missing Permissions on me")
         }
   }
-}
+} 
