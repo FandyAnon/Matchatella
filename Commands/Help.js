@@ -60,4 +60,4 @@ if(!args[0]){
     const msg = await message.channel.send(kid)
     msg.react("✅")
 	},
-};
+}; 
