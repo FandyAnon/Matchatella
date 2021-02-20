@@ -23,4 +23,4 @@ let Embedtool = new Discord.MessageEmbed()
         message.channel.send(embedsay).then(() => { postMsg.delete();});
         message.delete({ timeout: 200 });
   }
-}
+} 
